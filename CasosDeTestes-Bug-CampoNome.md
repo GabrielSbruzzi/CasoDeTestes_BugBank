@@ -14,6 +14,12 @@
 | 2     | Tente enviar o formulário sem preencher os campos obrigatórios (como email, nome, senha)    | A mensagem de erro "É campo obrigatório" aparece ao lado do campo vazio |
 | 3     | Verifique se a mensagem de erro "É campo obrigatório" aparece corretamente para todos os campos obrigatórios | A mensagem "É campo obrigatório" aparece corretamente ao lado de cada campo vazio |
 
+## Evidências: 
+- https://prnt.sc/5CzU_lAlM5Ff
+
+## Sistema:
+- O Sistema Ambiente: O bug foi encontrado no navegador Microsoft Edge
+
 ## Resultado Esperado:
 - Quando o formulário for enviado sem preencher os campos obrigatórios, a mensagem de erro "É campo obrigatório" deve ser exibida de forma clara ao lado de cada campo obrigatório vazio.
 
