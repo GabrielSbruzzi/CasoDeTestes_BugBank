@@ -18,7 +18,7 @@
 - https://prnt.sc/5CzU_lAlM5Ff
 
 ## Sistema:
-- O Sistema Ambiente: O bug foi encontrado no navegador Microsoft Edge
+- O bug foi encontrado no navegador Microsoft Edge
 
 ## Resultado Esperado:
 - Quando o formulário for enviado sem preencher os campos obrigatórios, a mensagem de erro "É campo obrigatório" deve ser exibida de forma clara ao lado de cada campo obrigatório vazio.
